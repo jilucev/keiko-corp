@@ -11,7 +11,6 @@
 
 }
 
-
 @font-face {
     font-family: 'open_bold';
     src: url('../fonts/opensans-bold.eot');
@@ -24,7 +23,6 @@
 
 }
 
-
 @font-face {
     font-family: 'open_semibold';
     src: url('../fonts/opensans-semibold.eot');
@@ -36,12 +34,6 @@
     font-style: normal;
 
 }
-
-
-
-
-
-
 
 section, footer {
 	background: #fffcfc;
@@ -62,15 +54,6 @@ a:focus{
 .container{
 	max-width: 1130px;
 }
-
-
-
-
-
-
-
-
-
 
 /*		Header 		*/
 
@@ -184,15 +167,6 @@ header .social li{
 header .social li:first-child{
 	margin: 0;
 }
-
-
-
-
-
-
-
-
-
 
 /*		Hero section 		*/
 
@@ -355,15 +329,6 @@ a.app_link{
   font-weight: bolder;
 }
 
-
-
-
-
-
-
-
-
-
 /*		Featured on section 		*/
 
 .featured_on{
@@ -384,15 +349,6 @@ a.app_link{
 .featured_on li:first-child{
 	margin-left: 0;
 }
-
-
-
-
-
-
-
-
-
 
 /*		About section 		*/
 
@@ -482,15 +438,6 @@ a.app_link{
 	display: inline-block;
 }
 
-
-
-
-
-
-
-
-
-
 /*		App features 		*/
 
 .app_features{
@@ -527,15 +474,6 @@ a.app_link{
 .app_features .details:nth-child(3n+1){
 	clear: both;
 }
-
-
-
-
-
-
-
-
-
 
 /*		Testimonials section 		*/
 
@@ -634,15 +572,6 @@ a.app_link{
 	background-position: -33px 0;
 }
 
-
-
-
-
-
-
-
-
-
 /*		Subscription section 		*/
 
 .sub_box{
@@ -685,8 +614,6 @@ a.app_link{
 	-o-border-bottom-left-radius: 2px;
 	-moz-border-bottom-left-radius: 2px;
 	-webkit-border-bottom-left-radius: 2px;
-
-
 }
 
 .sub_box #mc_submit{
@@ -742,15 +669,6 @@ a.app_link{
 	display: none;
 }
 
-
-
-
-
-
-
-
-
-
 /*		Footer 		*/
 
 footer{
@@ -777,14 +695,6 @@ footer .copyright{
 footer .copyright a{
 	color: #565555;
 }
-
-
-
-
-
-
-
-
 
 /*		Responsive CSS 		*/
 
@@ -848,11 +758,6 @@ footer .copyright a{
 		margin-left: 10px;
 	}
 
-
-
-
-
-
 	/*		Hero section 		*/
 	.hero .caption{
 		margin-left: 0;
@@ -866,10 +771,6 @@ footer .copyright a{
 		text-align: center;
 	}
 
-
-
-
-
 	/*		Featured on section		*/
 	.featured_on{
 		padding: 25px 0 5px 0!important;
@@ -878,11 +779,6 @@ footer .copyright a{
 	.featured_on ul li{
 		margin-bottom: 25px!important;
 	}
-
-
-
-
-
 
 	/*		About Section 		*/
 	.about .features_list {
@@ -904,11 +800,6 @@ footer .copyright a{
 		display: block;
 		margin-top: 20px;
 	}
-
-
-
-
-
 
 	/*		Subscription section 		*/
 	.sub_box #mc-email,
